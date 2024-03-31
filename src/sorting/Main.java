@@ -5,6 +5,11 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Main {
+	
+	// The Unicode interpretation by java compiler seems to not detect the unicode character code that is
+	// written inside the string literal. So this solution might not be the best way to solve this question.
+	// But for the sake of this task, I have provided a solution but this might not be the best solution.
+	// If there is any better way to do this, I would be more that happy to learn.
 
 	public static void main(String[] args) {
 		String[] qArray = { "xL01(F]J", "2pn5Mm", "-5)8gF{", "KWq0P]*%Q", "n@,:\u003eAm@", "\u003cRN_qCa7",

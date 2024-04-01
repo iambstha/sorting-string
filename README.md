@@ -1,4 +1,4 @@
-orting Strings and Lists Within an Array
+# Sorting Strings and Lists Within an Array
 
 This project demonstrates sorting strings and their associated lists within a Java array.
 
@@ -13,11 +13,13 @@ For example, given the input array:
 
 ```java
 ["xL01(F]J","2pn5Mm","-5)8gF{","KWq0P]*%Q","n@,:\u003eAm@","\u003cRN_qCa7","8Qx\u0026RAON","gT~s!1s?4i{K","w\"r^d_#l$Mmp"]
+```
 
 The desired output is
  
 ```java
 ["(01FJL]x","25Mmnp",")-58Fg{","%*0KPQW]q",",:\u003e@@Amn","7\u003cCNR_aq","\u00268ANOQRx","!14?KTgiss{~","\"#$M^_dlmprw"]
+```
 
 ## Approach
 1. Sort Strings Individually:
